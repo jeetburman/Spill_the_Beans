@@ -1,5 +1,6 @@
 import Slider from 'react-slick';
-import cold from '../src/assets/latte.png';
+import cold from '../assets/latte.png';
+import meethi from '../assets/meethi.jpg';
 const coffeeFeedback = [
   {
     id: 1,
@@ -9,9 +10,9 @@ const coffeeFeedback = [
   },
   {
     id: 2,
-    name: "Emily Johnson",
+    name: "Samrajnee Bhattacharjee",
     feedback: "Loved the cappuccino — creamy with the perfect foam on top.",
-    img: cold
+    img: meethi
   },
   {
     id: 3,
